@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MeshackNzuki
 - 👀 I’m interested in women
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on any projects 
+- 🌱 I’m currently learning Information security
+- 💞️ I’m looking to collaborate on any IT projects 
 - 📫 reach via 254703440095
 Or meshkaka1@gmail.com
 
