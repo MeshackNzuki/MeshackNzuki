@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @MeshackNzuki
-- 👀 I’m interested in women
-- 🌱 I’m currently learning Information security
-- 💞️ I’m looking to collaborate on any IT projects 
-- 📫 reach via 254703440095
+- 👀 I’m interested in Web and Mobile
+- 🌱 I’m currently Working as a Fullstack Dev
+- 💞️ I’m looking to collaborate on any High end projects 
+- 📫 Contacts 254703440095
 Or meshkaka1@gmail.com
 
 <!---
